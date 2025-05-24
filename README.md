@@ -2,10 +2,10 @@
 
 # 👋  Welcome!
 
-I’m so glad you are here—whether you are a fellow dev, a curious visitor, or a future collaborator.
-This profile is a living documentation of my pursuit of a lifelong dream that is finally in motion.
+I’m so glad you are here!
+This profile is a living documentation of my pursuit of a lifelong dream finally in motion.
 
-**I am passionate about thoughtful design** — both visually and in code. It has been a joy to discover how Vitruvius’ principles of strength, utility and beauty apply just as well to code as they do to architecture.
+**I am passionate about thoughtful design** — visually and in code. It has been a joy to discover how Vitruvius’ principles of strength, utility and beauty apply just as well to code as they do to architecture.
 
 ## 💻 So far, I have been focusing on: 
 - React

@@ -3,7 +3,7 @@
 # 👋  Welcome!
 
 I’m so glad you are here!
-This account is a living documentation of my pursuit of a lifelong dream finally in motion.
+This account is a living documentation of my pursuit of a dream finally in motion.
 
 **I am passionate about thoughtful design** — visually and in code. It has been a joy to discover how Vitruvius’ principles of strength, utility and beauty apply just as well to code as they do to architecture.
 

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20I'm%20Nea!%20&fontAlign=50&fontAlignY=44&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20&fontAlign=50&fontAlignY=44&fontColor=FFFFFF)
 
 # 👋  Welcome!
 
@@ -9,6 +9,7 @@ This profile is a living documentation of my pursuit of a lifelong dream finally
 
 ## 💻 So far, I have been focusing on: 
 - React
+- TypeScript
 - Tailwind
 - JavaScript
 - HTML

@@ -2,9 +2,11 @@
 
 # 👋  Welcome!
 
-I’m Linnéa, a second semester Frontend React Dev student! 
+I’m Linnéa, an architect turning developer. 
 
 ## 💻 So far, I have been focusing on: 
+- Payload CMS 
+- Next.js
 - React
 - TypeScript
 - Tailwind

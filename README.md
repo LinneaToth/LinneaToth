@@ -18,7 +18,7 @@ I’m Linnéa, an architect turning developer.
 - APIs
 - OOP
 
-Take a peek at my journey and feel free to explore the projects I’ve been working on!
+Take a peek at my journey and feel free to explore some of the projects I’ve been working on!
 
 ## 🤝 Want to connect? 
 Awesome! [Find me on LinkedIn!](https://www.linkedin.com/in/linneatoth/) - I'd love to connect! 

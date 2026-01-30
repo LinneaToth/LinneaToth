@@ -2,7 +2,7 @@
 
 # 👋  Welcome!
 
-I’m Linnéa, an architect turning developer.
+I’m Linnéa, an architect turning developer. I’m currently enrolled in a two-year Higher Vocational Education (Yrkeshögskola) in Frontend Development with React, with a holistic full-stack approach.
 
 ## 💻 So far, I have been focusing on: 
 - **Stack:** React, Next.js, TypeScript, Tailwind, CSS, JavaScript, semantic HTML  
@@ -11,16 +11,16 @@ I’m Linnéa, an architect turning developer.
 - **Foundations:** OOP in JS, team collaboration
 
 ## 🔭 Coming up, later in this semester: 
-- **Backend and database:** Node.js and SQL    
+- **Backend and database technology:** Node.js and SQL    
 - **Mobile apps:** React Native
-- **Agile project methodology**   
+- **Agile project methodologies**   
   
 
 ## 💼 I am pre-loaded with:
 - Experience with **project management** and strong collaboration skills
 - **Design experience** spanning production, analysis and assessment
-- **Communication and experience with teaching and talks** with a pedagogical mindset
-- **Professional background as an architect** including municipal work and large-scale projects (on land and at sea on cruise ships)
+- **Communication and teaching experience** with a pedagogical mindset
+- **Professional background as an architect** including municipal work and large-scale projects (on land and at sea aboard cruise ships)
 
 Take a peek at my journey and feel free to explore some of the projects I’ve been working on!
 

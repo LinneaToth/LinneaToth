@@ -2,13 +2,19 @@
 
 # 👋  Welcome!
 
-I’m Linnéa, an architect turning developer. 
+I’m Linnéa, an architect turning developer.
 
 ## 💻 So far, I have been focusing on: 
 **Stack:** React, Next.js, TypeScript, Tailwind, CSS, JavaScript, semantic HTML  
 **CMS & APIs:** Payload CMS, API integration, async patterns  
 **UX & Design:** Figma, Accessibility, UX research & strategy, interaction design, visual psychology  
 **Foundations:** OOP in JS, team collaboration
+
+## 💼 I also bring:
+- Experience with **project management** and strong collaboration skills
+- **Design experience** spanning production, analysis and assessment
+- **Communication and experience of teaching talking** with a pedagogical mindset
+- **Professional background as an architect** including municipal work and large-scale projects (on land and at sea on cruise ships)
 
 Take a peek at my journey and feel free to explore some of the projects I’ve been working on!
 

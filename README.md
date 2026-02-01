@@ -8,7 +8,7 @@ I’m Linnéa, an architect turning developer. I’m currently enrolled in a two
 - **Stack:** React, Next.js, TypeScript, Tailwind, CSS, JavaScript, semantic HTML  
 - **CMS & APIs:** Payload CMS, API integration, async patterns  
 - **UX & Design:** Figma, Accessibility, UX research & strategy, interaction design, visual psychology  
-- **Foundations:** OOP in JS, team collaboration
+- **Foundations:** team collaboration and version control with git & GitHub
 
 ## 🔭 Coming up, later in this semester: 
 - **Backend and database technology:** Node.js and SQL    

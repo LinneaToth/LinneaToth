@@ -8,7 +8,7 @@ I’m Linnéa, an architect turning developer. I’m currently enrolled in a two
 
 ## 💻 So far, I have been focusing on: 
 - **Stack - Frontend:** React, Next.js, TypeScript, Tailwind, CSS, JavaScript, semantic HTML
-- **Stack - Backend & Database technology:**  MySQL, MongoDB, Node.js, Express.js. Backend with custom restAPI's. Basic C# & ASP.NET Core with EF knowledge.  
+- **Stack - Backend & Database technology:**  MySQL, MongoDB, Node.js, Express.js. Backend with custom REST APIs. Basic C# & ASP.NET Core with EF knowledge.  
 - **CMS & APIs:** Payload CMS, external API integration, async patterns
 - **Mobile apps:** React Native, Expo, Android Studio
 - **UX & Design:** Figma, Accessibility, UX research & strategy, interaction design, visual psychology  

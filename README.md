@@ -6,7 +6,7 @@ I’m Linnéa, an architect turning developer. I’m currently enrolled in a two
 
 🐣 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 🎓
 
-## 💻 So far, I have been focusing on: 
+## So far, I have been focusing on: 
 - **Stack - Frontend:** React, Next.js, TypeScript, Tailwind, CSS, JavaScript, semantic HTML
 - **Stack - Backend & Database technology:**  MySQL, MongoDB, Node.js, Express.js. Backend with custom REST APIs. Basic C# & ASP.NET Core with EF knowledge.  
 - **CMS & APIs:** Payload CMS, external API integration, async patterns
@@ -15,7 +15,7 @@ I’m Linnéa, an architect turning developer. I’m currently enrolled in a two
 - **Foundations:** team collaboration and version control with git & GitHub
 - **Agile project methodologies**   
   
-## 💼 I come pre-loaded with:
+## I come pre-loaded with:
 - Experience with **project management** and strong collaboration skills
 - **Design experience** spanning production, analysis and assessment
 - **Communication and teaching experience** with a pedagogical mindset
@@ -23,5 +23,5 @@ I’m Linnéa, an architect turning developer. I’m currently enrolled in a two
 
 Take a peek at my journey and feel free to explore some of the projects I’ve been working on!
 
-## 🤝 Want to connect? 
+## Want to connect? 
 Awesome! [Find me on LinkedIn!](https://www.linkedin.com/in/linneatoth/) - I'd love to connect! 

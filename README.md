@@ -4,7 +4,7 @@
 
 I’m Linnéa, an architect turning developer. I’m currently enrolled in a two-year Higher Vocational Education (Yrkeshögskola) in Frontend Development with React, with a holistic full-stack approach.
 
-🐣 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 🎓
+🐣 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 🎓
 
 ## 💻 So far, I have been focusing on: 
 - **Stack - Frontend:** React, Next.js, TypeScript, Tailwind, CSS, JavaScript, semantic HTML
